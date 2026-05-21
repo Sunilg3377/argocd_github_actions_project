@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: webcont
-          image: bsunilg/webapp:5
+          image: bsunilg/webapp:6
 
           ports:
             - containerPort: 8080
